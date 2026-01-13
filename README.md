@@ -20,8 +20,6 @@ $$\text{Renewable Energy Share}_i = \frac{\text{Renewable Energy Use}_i}{\text{T
 - [cite_start]**Language**: R [cite: 8, 45, 81, 119]
 - **Libraries**: `tidyverse`, `sf` (for spatial data), `ggplot2`, `dplyr`, `rnaturalearth`, `data.table`.
 
----
-
 ## Analysis & Visualizations
 
 ### 1. Bivariate Geographical Mapping
@@ -38,13 +36,9 @@ I created a bivariate map where:
 - **Northern Central States (e.g., North Dakota, Wyoming)**: Show cool tones with pale opacity, indicating low renewable power consumption and low EV registration, reflecting a conservative attitude towards clean sources.
 - **Pacific Northwest & New England**: Exhibit moderate-to-high renewable shares but relatively lower EV registration intensity, possibly due to population density and infrastructure availability.
 
----
-
 ## Academic Integrity & Honor Code
 **Note on Code Availability:**
 In accordance with the **UC Berkeley Honor Code** and to maintain academic integrity for the course (Lab 4 Project), the source code for data cleaning and map generation is **not publicly available** in this repository to prevent plagiarism. 
-
----
 
 ## Contact
 - **Author**: Hex Wu
