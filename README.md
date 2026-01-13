@@ -44,8 +44,6 @@ I created a bivariate map where:
 **Note on Code Availability:**
 In accordance with the **UC Berkeley Honor Code** and to maintain academic integrity for the course (Lab 4 Project), the source code for data cleaning and map generation is **not publicly available** in this repository to prevent plagiarism. 
 
-[cite_start]If you are a recruiter or a collaborator interested in my R programming style [cite: 8, 45, 81, 119] [cite_start]or the specific implementation of the bivariate mapping logic, please feel free to contact me directly at **hex@berkeley.edu**[cite: 2, 38, 75, 112], and I would be happy to provide a private code walkthrough.
-
 ---
 
 ## Contact
