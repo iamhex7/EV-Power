@@ -1,5 +1,3 @@
-# EV-Power
-Correlation Between EV Registrations and Renewable Energy Sources (2023)
 # EV Power: Relationship Between EV Registrations and Clean Energy Sources (2023)
 
 ## Overview
@@ -19,7 +17,7 @@ The primary metric used is the **Renewable Energy Share per State**, defined as:
 $$\text{Renewable Energy Share}_i = \frac{\text{Renewable Energy Use}_i}{\text{Total Energy Use}_i}$$
 
 ### Technical Stack
-- **Language**: R
+- [cite_start]**Language**: R [cite: 8, 45, 81, 119]
 - **Libraries**: `tidyverse`, `sf` (for spatial data), `ggplot2`, `dplyr`, `rnaturalearth`, `data.table`.
 
 ---
@@ -31,7 +29,7 @@ I created a bivariate map where:
 - **Warmer color fills** represent higher renewable energy shares.
 - **Darker opacity/tone** indicates a higher volume of EV registrations.
 
-<img width="1045" height="757" alt="image" src="https://github.com/user-attachments/assets/b242e2bb-baf3-40ad-8493-0be2062e5055" />
+> <img width="1049" height="756" alt="image" src="https://github.com/user-attachments/assets/7c4c271f-5da8-432b-aa20-a74e455f8dec" />
 
 > *Caption: 2023 Landscape of Renewable Energy Share vs. EV Registrations.*
 
@@ -46,11 +44,11 @@ I created a bivariate map where:
 **Note on Code Availability:**
 In accordance with the **UC Berkeley Honor Code** and to maintain academic integrity for the course (Lab 4 Project), the source code for data cleaning and map generation is **not publicly available** in this repository to prevent plagiarism. 
 
-If you are a recruiter or a collaborator interested in my R programming style or the specific implementation of the bivariate mapping logic, please feel free to contact me directly at **hex@berkeley.edu**, and I would be happy to provide a private code walkthrough.
+[cite_start]If you are a recruiter or a collaborator interested in my R programming style [cite: 8, 45, 81, 119] [cite_start]or the specific implementation of the bivariate mapping logic, please feel free to contact me directly at **hex@berkeley.edu**[cite: 2, 38, 75, 112], and I would be happy to provide a private code walkthrough.
 
 ---
 
 ## Contact
-- [cite_start]**Author**: Hex Wu [cite: 1, 38, 74, 111]
-- [cite_start]**Email**: [hex@berkeley.edu](mailto:hex@berkeley.edu) [cite: 2, 38, 75, 112]
-- [cite_start]**Portfolio**: [hexVerse Portfolio](https://hexverse.framer.media)
+- **Author**: Hex Wu
+- **Email**: [hex@berkeley.edu](mailto:hex@berkeley.edu)
+- **Portfolio**: [hexVerse Portfolio](https://hexverse.framer.media)
